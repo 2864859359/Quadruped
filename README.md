@@ -1,3 +1,4 @@
 # Quadruped
 quadruped 四足
-SingleVMC -- 单腿VMC
+ 这是一个仿真视频文件
+
